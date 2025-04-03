@@ -1,0 +1,8 @@
+numpy
+pandas
+scikit-learn
+lightgbm
+optuna
+optuna-integration[lightgbm]
+matplotlib  # For visualization
+seaborn     # For visualization
