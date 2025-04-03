@@ -1,6 +1,6 @@
 # Harveston Climate Forecasting
 
-**DataCrunch 2025 Competition - DataForecast Team (Data_Crunch_001)**  
+**DataCrunch 2025 Competition**  
 **University of Moratuwa**
 
 ## Project Overview
