@@ -29,7 +29,6 @@ This repository contains our solution for the DataCrunch 2025 competition, focus
 │   ├── 02_model_training.ipynb     # Model development
 │   ├── utils.py
 │   └── plots/                      # Generated visualizations
-├── utils.py
 │
 ├── final_submission.csv            
 ├── technical_report.pdf            
