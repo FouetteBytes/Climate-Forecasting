@@ -6,3 +6,6 @@ optuna
 optuna-integration[lightgbm]
 matplotlib  # For visualization
 seaborn     # For visualization
+plotly      # For interactive visualizations
+statsmodels # For time series analysis
+missingno   # For missing value visualization
