@@ -18,7 +18,7 @@ This repository contains our solution for the DataCrunch 2025 competition, focus
 ## Repository Structure
 
 ```
-/Data_Crunch_001
+/Data_Crunch_106
 ├── data/                           
 │   ├── sample_submission.csv       
 │   ├── test.csv                    
