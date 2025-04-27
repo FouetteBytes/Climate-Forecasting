@@ -51,7 +51,7 @@ The required libraries for this project are listed in `requirements.txt`. The ma
 
 1. Clone this repository:
 ```
-git clone https://github.com/your-github/Data_Crunch_001.git
+git clone https://github.com/FouetteBytes/Climate-Forecasting.git
 cd Data_Crunch_106
 ```
 
