@@ -1,10 +1,8 @@
 # Harveston Climate Forecasting
 
-**DataCrunch 2025 Competition**  
-
 ## Project Overview
 
-This repository contains our solution for the DataCrunch 2025 competition, focused on predicting critical environmental variables for Harveston, a self-sufficient agricultural region experiencing climate shifts. Our models forecast five key climate variables to help farmers make informed decisions about planting cycles, resource allocation, and preparation for weather extremes.
+This focuses on predicting critical environmental variables for Harveston, a self-sufficient agricultural region experiencing climate shifts. Our models forecast five key climate variables to help farmers make informed decisions about planting cycles, resource allocation, and preparation for weather extremes.
 
 ### Forecasting Targets
 
