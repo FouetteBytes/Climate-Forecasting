@@ -15,7 +15,7 @@ This focuses on predicting critical environmental variables for Harveston, a sel
 ## Repository Structure
 
 ```
-/Data_Crunch_106
+/climate-forecasting
 ├── data/                           
 │   ├── sample_submission.csv       
 │   ├── test.csv                    
@@ -51,7 +51,7 @@ The required libraries for this project are listed in `requirements.txt`. The ma
 
 1. Clone this repository:
 ```
-git clone https://github.com/FouetteBytes/Climate-Forecasting.git
+git clone https://github.com/FouetteBytes/climate-forecasting.git
 cd Data_Crunch_106
 ```
 
